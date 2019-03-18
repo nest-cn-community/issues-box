@@ -16,3 +16,4 @@ nestjs 相关技术的问题收纳盒，帮助 nestjs 开发者高效率、统�
 
 - [Typeorm closure-table 中的更新删除问题](https://github.com/nest-cn-community/issues-box/issues/2)
 - [TypeORM 中的模糊查询用法](https://github.com/nest-cn-community/issues-box/issues/3)
+- [TypeORM：SelectQueryBuilder 的 where 条件中使用 IN 语法](https://github.com/nest-cn-community/issues-box/issues/4)
